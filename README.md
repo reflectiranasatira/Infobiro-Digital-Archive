@@ -5,3 +5,4 @@ A dataset of 248.456 news articles and text/commentary/bulletin snippets from th
 
 Diachronic word embeddings
 <img width="1222" height="600" alt="image" src="https://github.com/user-attachments/assets/52a10a7c-5ed9-49f0-8869-674f7f222fba" />
+<img width="1165" height="568" alt="image" src="https://github.com/user-attachments/assets/7b717eff-6b4a-48d3-82c7-a11d3b4eb28f" />
