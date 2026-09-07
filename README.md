@@ -1,5 +1,5 @@
 # Infobiro-Digital-Archive
-A dataset of 248.456 news articles and text/commentary/bulletin snippets from the Infobiro Digital Archive (from 1850 to 2026).
+A dataset of 248.456 news articles and text/commentary/bulletin snippets from the Infobiro Digital Archive (from 1850 to 2026). I have included some exploratory analyses of the text corpus below.
 
 BERTopic
 <img width="1571" height="465" alt="image" src="https://github.com/user-attachments/assets/869a2abf-2523-4d2e-b6c2-7ff29350b649" />
@@ -7,11 +7,14 @@ BERTopic
 
 Word2Vec Diachronic word embeddings
 
-Past / Present cosine similarity with happiness
+Past / Future (Prošlost / Budućnost) cosine similarity with happiness (Sreća)
 <img width="1222" height="600" alt="image" src="https://github.com/user-attachments/assets/52a10a7c-5ed9-49f0-8869-674f7f222fba" />
 
-Communism / Capitalism cosine similarity with happiness
+Communism / Capitalism (Komunizam / Kapitalizam) cosine similarity with happiness (Sreća)
 <img width="1165" height="568" alt="image" src="https://github.com/user-attachments/assets/7b717eff-6b4a-48d3-82c7-a11d3b4eb28f" />
 
-Improvement / Collapse cosine similarity with future
+Improvement / Collapse (Napredak / Propadanje) cosine similarity with future (Budućnost)
 <img width="1222" height="595" alt="image" src="https://github.com/user-attachments/assets/50448a3f-021e-48c9-aef9-ffef47e61cb2" />
+
+War / Peace (Rat / Mir) cosine similarity with common sense (Razum)
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/34badc69-a355-4162-8c05-34c823b8286f" />
