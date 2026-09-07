@@ -6,6 +6,7 @@ The dataset contains relevant metadata including authors, news outlet, etc. It's
 I can provide the dataset upon request! :)
 
 Topic modeling with BERTopic
+<img width="1000" height="817" alt="image" src="https://github.com/user-attachments/assets/65d2d1b5-75a0-4589-8799-4f682fbfe3fb" />
 <img width="1571" height="465" alt="image" src="https://github.com/user-attachments/assets/869a2abf-2523-4d2e-b6c2-7ff29350b649" />
 <img width="1217" height="546" alt="image" src="https://github.com/user-attachments/assets/18395f25-06cb-48a6-86dd-e3f14d5b5e88" />
 
