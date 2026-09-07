@@ -9,5 +9,7 @@ Word2Vec Diachronic word embeddings
 
 Past / Present cosine similarity with happiness
 <img width="1222" height="600" alt="image" src="https://github.com/user-attachments/assets/52a10a7c-5ed9-49f0-8869-674f7f222fba" />
+
+Communism / Capitalism cosine similarity with happiness
 <img width="1165" height="568" alt="image" src="https://github.com/user-attachments/assets/7b717eff-6b4a-48d3-82c7-a11d3b4eb28f" />
 <img width="1222" height="595" alt="image" src="https://github.com/user-attachments/assets/50448a3f-021e-48c9-aef9-ffef47e61cb2" />
