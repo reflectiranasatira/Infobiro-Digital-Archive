@@ -3,7 +3,7 @@ A dataset of 248.456 Bosnian news articles and text/commentary/bulletin snippets
 
 The dataset contains relevant metadata including authors, news outlet, etc. It's stored as a JSON file (~380 mb size). 
 
-I can provide the dataset upin request! :)
+I can provide the dataset upon request! :)
 
 Topic modeling with BERTopic
 <img width="1571" height="465" alt="image" src="https://github.com/user-attachments/assets/869a2abf-2523-4d2e-b6c2-7ff29350b649" />
