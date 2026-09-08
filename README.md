@@ -18,6 +18,9 @@ Past / Future (Prošlost / Budućnost) cosine similarity with happiness (Sreća)
 Communism / Capitalism (Komunizam / Kapitalizam) cosine similarity with happiness (Sreća)
 <img width="1165" height="568" alt="image" src="https://github.com/user-attachments/assets/7b717eff-6b4a-48d3-82c7-a11d3b4eb28f" />
 
+Change / Propaganda (Promjena / Propaganda) cosine similarity with politics (Politika)
+<img width="936" height="457" alt="image" src="https://github.com/user-attachments/assets/881e1014-50f8-480f-9c27-60fec6419f5e" />
+
 Improvement / Collapse (Napredak / Propast) cosine similarity with future (Budućnost)
 <img width="1222" height="595" alt="image" src="https://github.com/user-attachments/assets/50448a3f-021e-48c9-aef9-ffef47e61cb2" />
 
