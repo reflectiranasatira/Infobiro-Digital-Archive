@@ -1,4 +1,4 @@
-# Infobiro-Digital-Archive
+# Infobiro-Digital-Archive (Ongoing project)
 A dataset of 248.456 Bosnian news article and text/commentary/bulletin snippets from the Infobiro Digital Archive (from 1850 to 2026). I have included some images of exploratory analyses of the text corpus below. A big limitation of the corpus is that it (mostly) includes snippets rather than full text. Pretitle, subtitle, title, and body were merged together as the text corpus. Another limitation is that the majority of the digitalized text is from the 1980s onwards.
 
 The dataset contains relevant metadata including authors, news outlet, etc. It's stored as a JSON file (~380 mb size). 
